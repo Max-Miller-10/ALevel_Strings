@@ -44,7 +44,6 @@ List<byte> CharacterCodesAsBytes(string input)
     return result;
 }
 
-CharacterCodesAsBytes("Hello");
 
 
 string StringFromCharCodes(List<int> input)
